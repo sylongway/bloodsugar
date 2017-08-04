@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class BloodSugar extends Component {
+export default class BloodSugar extends Component { //了
   render() {
     return (
       <View style={styles.container}>
