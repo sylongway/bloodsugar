@@ -1,0 +1,3 @@
+rootProject.name = 'BloodSugar'
+
+include ':app'
